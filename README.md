@@ -8,4 +8,4 @@
 아님.. 재식별화 하는 알고리즘을 찾아서 거기의 개선을할까
 
 
- 
+ file:///C:/Users/ICN/Downloads/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4_%EB%B9%84%EC%8B%9D%EB%B3%84%ED%99%94%EC%97%90_%EB%8C%80%ED%95%9C_%EC%9E%AC.pdf
