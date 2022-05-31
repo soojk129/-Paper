@@ -8,4 +8,4 @@
 
 아님.. 재식별화 하는 알고리즘을 찾아서 거기의 개선을할까  -> 이걸로 하려고 생각중! (90% 정도)
 
-[이 논문](https://file1.earticle.net/PDF/Direct?key=v+Ly10tYUm8wt7O5kNoLw6nqArNCs+xr4yomiocwa1JCcn0B1fLA+kjGtJbGM66CcfSDvaj7Y5JseRqu/zUUnsLuRyXZhwJMNlvzdRiliF02LiwomVTsFYgbCEC51Z33IRtiOU9byEW+gJTe+8ioPjrjRT2hzATL0YSNLhR1WdiNWVEkMec3/KFzEio5P/11GhCS/K56txR/pr/Q/CF0VBDtbL/9X4W/SXAOYIKQ/u4=) 다가 모수추청관련하여 알아보려고 빅데이터분석기사에서 개인정보관련 공부 시작!
+[이 논문](https://file1.earticle.net/PDF/Direct?key=v+Ly10tYUm8wt7O5kNoLw6nqArNCs+xr4yomiocwa1JCcn0B1fLA+kjGtJbGM66CcfSDvaj7Y5JseRqu/zUUnsLuRyXZhwJMNlvzdRiliF02LiwomVTsFYgbCEC51Z33IRtiOU9byEW+gJTe+8ioPjrjRT2hzATL0YSNLhR1WdiNWVEkMec3/KFzEio5P/11GhCS/K56txR/pr/Q/CF0VBDtbL/9X4W/SXAOYIKQ/u4=) 보다가 모수추청관련하여 알아보려고 빅데이터분석기사에서 개인정보관련 공부 시작!
