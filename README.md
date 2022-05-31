@@ -8,6 +8,4 @@
 
 아님.. 재식별화 하는 알고리즘을 찾아서 거기의 개선을할까  -> 이걸로 하려고 생각중! (90% 정도)
 
- file:///C:/Users/ICN/Downloads/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4_%EB%B9%84%EC%8B%9D%EB%B3%84%ED%99%94%EC%97%90_%EB%8C%80%ED%95%9C_%EC%9E%AC.pdf
-
-이 논문 보다가 모수추청관련하여 알아보려고 빅데이터분석기사에서 개인정보관련 공부 시작!
+<a href = 'file:///C:/Users/ICN/Downloads/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4_%EB%B9%84%EC%8B%9D%EB%B3%84%ED%99%94%EC%97%90_%EB%8C%80%ED%95%9C_%EC%9E%AC.pdf'> 이 논문</a> 보다가 모수추청관련하여 알아보려고 빅데이터분석기사에서 개인정보관련 공부 시작!
